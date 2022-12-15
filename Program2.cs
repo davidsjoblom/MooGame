@@ -6,7 +6,6 @@ namespace MooGame
 {
    class MainClass
    {
-
       public static void Main(string[] args)
       {
 

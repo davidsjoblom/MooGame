@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj": {}
+    "C:\\Users\\David\\source\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj": {
+    "C:\\Users\\David\\source\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj",
+        "projectUniqueName": "C:\\Users\\David\\source\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj",
         "projectName": "MooGame.Core",
-        "projectPath": "C:\\Users\\David\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj",
+        "projectPath": "C:\\Users\\David\\source\\repos\\MooGame\\moogame.core\\MooGame.Core.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\repos\\MooGame\\moogame.core\\obj\\",
+        "outputPath": "C:\\Users\\David\\source\\repos\\MooGame\\moogame.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
