@@ -1,0 +1,15 @@
+C:\Users\David\repos\MooGame\moogame.core\bin\Debug\net7.0\MooGame.Core.exe
+C:\Users\David\repos\MooGame\moogame.core\bin\Debug\net7.0\MooGame.Core.deps.json
+C:\Users\David\repos\MooGame\moogame.core\bin\Debug\net7.0\MooGame.Core.runtimeconfig.json
+C:\Users\David\repos\MooGame\moogame.core\bin\Debug\net7.0\MooGame.Core.dll
+C:\Users\David\repos\MooGame\moogame.core\bin\Debug\net7.0\MooGame.Core.pdb
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.csproj.AssemblyReference.cache
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.AssemblyInfoInputs.cache
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.AssemblyInfo.cs
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.csproj.CoreCompileInputs.cache
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.dll
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\refint\MooGame.Core.dll
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.pdb
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\MooGame.Core.genruntimeconfig.cache
+C:\Users\David\repos\MooGame\moogame.core\obj\Debug\net7.0\ref\MooGame.Core.dll
